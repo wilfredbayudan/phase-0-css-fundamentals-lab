@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  margin: auto;
+  text-align: center;
+}
+figure {
+  margin: auto;
+  text-align: center;
+}
+nav a {
+  padding: auto 10px auto 10px;
+  background-color: azure;
+}
+figcaption {
+  font-size: 0.8em;
+}
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
+#details div {
+  float: left;
+  background-color: blanchedalmond;
+  text-align: center;
+  width: 25%;
+}
